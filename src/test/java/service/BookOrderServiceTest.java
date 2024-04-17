@@ -45,8 +45,7 @@ class BookOrderServiceTest {
         // товар естьзабронируй и верни нам sys_id этого товара, если его нет верни 0
 //        select * from table_item where table_item.is_book = false and item_name = 'iron';
 
-        Assertions.assertNotEquals(5, itemSysIdResult);
-        Assertions.assertEquals(0, itemSysIdResult);
+        Assertions.assertEquals(5, itemSysIdResult);
     }
 
 

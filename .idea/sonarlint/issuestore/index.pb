@@ -15,3 +15,11 @@ u
 Esrc/main/java/io/moshkabortman/service/impl/BookOrderServiceImpl.java,5/b/5b0ca526036b5ceb5c153621ab54efdf1bd447eb
 m
 =src/main/java/io/moshkabortman/repository/BookRepository.java,1/4/146aa09795ccb3b680a58fb1862051543db2100d
+k
+;src/main/java/io/moshkabortman/service/BookTextService.java,7/5/751a9e59d8db69ad54fc1a16c0501f36d3f62196
+t
+Dsrc/main/java/io/moshkabortman/service/impl/BookTextServiceImpl.java,7/2/72d6a1bf9d51e000f783f73c3de3324027e59dcc
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
